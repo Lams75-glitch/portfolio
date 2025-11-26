@@ -2,7 +2,7 @@ html,
 body {
     padding: 0%;
     margin: 0%;
-    background-color: rgb(30, 28, 28);
+    background-color: rgb(171, 65, 12);
     color: white;
     font-family: sans-serif;
 }
@@ -31,7 +31,7 @@ nav img {
 
 h1 {
     display: flex;
-    color:  #DAA520 ;
+    color:  brown ;
 }
 
 header {
@@ -42,7 +42,7 @@ header {
 
 .button {
 
-    background: grey;
+    background:orangered;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -120,7 +120,7 @@ nav div {
 nav {
     padding: 2%;
     box-shadow: 0px -5px 12px 7px;
-    background-color: black;
+    background-color: brown;
 }
 .card-containers {
     display: flex;
@@ -136,9 +136,7 @@ nav {
     border-radius: 100%;
 }
 
-.chk {
-    width: 40vw;
-}
+
 
 a {
     text-decoration: none;
@@ -146,8 +144,7 @@ a {
 
 footer {
     padding: 2%;
-    box-shadow: 0px -5px 12px 7px;
-    background-color: rgb(40, 38, 38);
+    background-color: rgb(114, 30, 30);
 }
 
 section {
@@ -157,7 +154,7 @@ section {
 
 .tailleimg1 {
     height: 50%;
-    width: 50%;
+    width: 100%;
 }
 
 header img{
@@ -165,12 +162,12 @@ header img{
 }
 
 main{
-    padding: 0%;
+    padding: 3%;
 }
 .color{
     background-color: rgb(40, 38, 38);
 }
-.azerty{
+.bouger{
     display: flex;
     justify-content: space-around;
     align-items: center;
